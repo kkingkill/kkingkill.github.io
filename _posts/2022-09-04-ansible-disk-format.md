@@ -8,7 +8,7 @@ render_with_liquid: false
 ---
 
 ## Ansible Disk Format and Mount Playbook 
-The following ansibler playbook can format disk with xfs and automatically mount:
+The following ansible playbook can format disk with xfs and automatically mount:
 1. Format all disks which are defined in variable "devices" with xfs.
 2. Mount and write the info into /etc/fstab. you can see the result using "df -h"
 3. Because we use ansbile module "filesystem" and "mount", all opertions are idempotent. That means if the disk is already formated and ansible will ignore and we don't worry the playbook format the disk which has the data and it is safe.
