@@ -23,10 +23,10 @@ timezone: Asia/Shanghai
 
 title: cloud                          # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: Cloud and IaC   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+  Cloud and IaC.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://kkingkill.github.io'
