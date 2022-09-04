@@ -2,7 +2,7 @@
 title: Ansible Disk Format Playbook
 author: K
 date: 2022-09-04 14:39:00 +0800
-categories: [Infra, Ansbile]
+categories: [Infra, Ansible]
 tags: [linux, ansbile, disk format, disk mount]
 render_with_liquid: false
 ---
