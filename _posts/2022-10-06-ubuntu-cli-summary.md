@@ -8,8 +8,9 @@ render_with_liquid: false
 ---
 
 ## Ubuntu Common Command Summary 
-1. Check ubuntu version
+1. Check ubuntu version:
   lsb_release -a
+
 
 
 
